@@ -1,0 +1,19 @@
+{
+  "name": "free-port",
+  "version": "0.0.1",
+  "description": "A little function that finds unused port within user's machine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akumzy/free-port.git"
+  },
+  "author": "Akuma Isaac Akuma <akumaisaacakuma@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akumzy/free-port/issues"
+  },
+  "homepage": "https://github.com/Akumzy/free-port#readme"
+}
